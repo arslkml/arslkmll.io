@@ -11,7 +11,7 @@ export const DATA = {
     "Fullstack learners who are also interested in AI and Nature 🍃.",
   summary:
     "As a dedicated student at Telkom University specializing in [Digital Marketing with a minor in Full-stack Development](#education), my academic journey is intertwined with hands-on experience in creating strategic collaborations. I honed my skills in [project management and digital solutions](#skills), contributing significantly to empowering local communities. My competencies extend to leveraging tools like [Figma, Canva and Davinci Resolve](https://www.linkedin.com/in/arsal-kamil-31j07004/), enhancing my analytical capabilities. With a commitment to continuous learning and a penchant for digital creativity, I am actively seeking innovative projects that align with my expertise in marketing and development.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/me3.png",
   skills: [
     "React",
     "Next.js",
