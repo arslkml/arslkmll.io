@@ -230,7 +230,7 @@ export const DATA = {
       dates: "February 21st - Desember 18th, 2023",
       location: "Bandung, Indonesia",
       description:
-        "Program pemberdayaan masyarakat desa adalah upaya pemerintah desa untuk memanfaatkan seluruh potensi yang ada guna memajukan desa, mencakup berbagai bidang seperti pemerintahan, ekonomi, kesehatan, pendidikan, dan teknologi.",
+        "Program pemberdayaan masyarakat desa adalah upaya pemerintah desa untuk memanfaatkan seluruh potensi yang ada guna memajukan desa, mencakup berbagai bidang seperti pemerintahan, ekonomi, kesehatan, pendidikan, dan teknologi. Saya Diamanahi untuk membuat website dan tech stack yg saya pakai menggunakan Wordpress Elementor",
       image:
         "kemdikbud.png",
       links: [
